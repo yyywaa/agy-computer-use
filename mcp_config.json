@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "agy-computer-use": {
+      "command": "/usr/bin/env",
+      "args": [
+        "python3",
+        "${PLUGIN_DIR}/src/agy_computer_use/server.py"
+      ],
+      "env": {
+        "PYTHONPATH": "${PLUGIN_DIR}/src"
+      }
+    }
+  }
+}

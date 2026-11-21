@@ -1,0 +1,7 @@
+{
+  "name": "agy-computer-use",
+  "version": "0.1.0",
+  "description": "Zero-dependency macOS system-level Computer Use MCP server & Swarm-safe GUI automation plugin with silent CGWindowID capture, native Apple Vision OCR, and pluggable app adapters.",
+  "author": "cloudrayyy",
+  "license": "MIT"
+}
